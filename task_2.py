@@ -1,5 +1,5 @@
 # Simple Calculator Program in Python
-# Made by Abhinav (BTech ECE Student)
+# Made by vinamra kapoor (BTech ECE Student)
 
 def calculator():
     print("Welcome to the Basic Calculator!")
@@ -30,4 +30,5 @@ def calculator():
         return "Invalid input! Please enter numbers only."
 
 # Run the calculator
+
 print(calculator())
