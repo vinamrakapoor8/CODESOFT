@@ -1,5 +1,5 @@
 # Rock Paper Scissors Game using Python
-# Developed by Vinamra kapoor (Intern @CodSoft)
+# Developed by Vinamra kapoor 
 
 import random
 
@@ -39,3 +39,4 @@ def rock_paper_scissors():
 # Run the game
 
 rock_paper_scissors()
+
